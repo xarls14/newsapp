@@ -1,6 +1,6 @@
 # newsapp
 
-A new Flutter project.
+Proyecto de noticias en flutter v3
 
 ## Getting Started
 
